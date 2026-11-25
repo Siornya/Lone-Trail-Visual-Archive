@@ -1,0 +1,13 @@
+:root {
+	--color-background: #F5EEDA;
+	--color-accent: #F06733;
+	--color-background-dark: #1D1D1D;
+
+	--color-grid: #EEE7D3;
+	--color-accent-pattern: #DE5E2F;
+	--color-text: #333333;
+
+	--color-stripe-green: #87C2B0;
+	--color-stripe-yellow: #EBA93B;
+	--color-stripe-red: #9A2D28;
+}
