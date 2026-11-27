@@ -6,7 +6,7 @@
 
 [调查进度](调查进度/) 收录五张游戏原始透明 PNG，按 `progress_1.png` 至 `progress_5.png` 排列。[AA2 原始目录](https://github.com/ArknightsAssets/ArknightsAssets2/tree/cn/assets/dyn/arts/ui/rhine/researchprogress)
 
-[调查加载动画](调查进度/loading.svg) 在同一网格上逐组点亮 7、15、22、30、37 个圆点，每组新增圆点用 120 毫秒淡入，每 1.5 秒循环一次。开启减少动态效果时显示完整点阵。网页可直接使用 `<img src="icons/调查进度/loading.svg" width="32" height="32" alt="加载中">`。
+[调查加载动画](调查进度/loading.svg) 在同一网格上逐组点亮 7、15、22、30、37 个圆点，每 450 毫秒增加一组，新增圆点用 175 毫秒淡入。完整点阵停留后，用 200 毫秒一起淡出，再留白 100 毫秒。整个循环为 2.5 秒。开启减少动态效果时显示完整点阵。网页可直接使用 `<img src="icons/调查进度/loading.svg" width="32" height="32" alt="加载中">`。
 
 | 图案 | 取样来源 |
 | --- | --- |

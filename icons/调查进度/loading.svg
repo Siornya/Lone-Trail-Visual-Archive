@@ -3,18 +3,20 @@
 	<style>
 		svg { color: #3a3632; }
 		@media (prefers-color-scheme: dark) { svg { color: #f4efdf; } }
-		.layer { opacity: 0; animation: appear 1.5s ease-in-out infinite; }
+		.layer { opacity: 0; animation: first 2.5s ease-in-out infinite; }
+		.layer-2 { animation-name: second; }
 		.layer-3 { animation-name: third; }
 		.layer-4 { animation-name: fourth; }
 		.layer-5 { animation-name: fifth; }
-		@keyframes appear { 0%, 12%, 100% { opacity: 0; } 20%, 92% { opacity: 1; } }
-		@keyframes third { 0%, 32%, 100% { opacity: 0; } 40%, 92% { opacity: 1; } }
-		@keyframes fourth { 0%, 52%, 100% { opacity: 0; } 60%, 92% { opacity: 1; } }
-		@keyframes fifth { 0%, 72%, 100% { opacity: 0; } 80%, 92% { opacity: 1; } }
+		@keyframes first { 0%, 96%, 100% { opacity: 0; } 7%, 88% { opacity: 1; } }
+		@keyframes second { 0%, 18%, 96%, 100% { opacity: 0; } 25%, 88% { opacity: 1; } }
+		@keyframes third { 0%, 36%, 96%, 100% { opacity: 0; } 43%, 88% { opacity: 1; } }
+		@keyframes fourth { 0%, 54%, 96%, 100% { opacity: 0; } 61%, 88% { opacity: 1; } }
+		@keyframes fifth { 0%, 72%, 96%, 100% { opacity: 0; } 79%, 88% { opacity: 1; } }
 		@media (prefers-reduced-motion: reduce) { .layer { animation: none; opacity: 1; } }
 	</style>
 	<g fill="currentColor">
-		<g id="stage-1">
+		<g id="stage-1" class="layer">
 			<circle cx="75" cy="11" r="9"/>
 			<circle cx="93.5" cy="11" r="9"/>
 			<circle cx="38" cy="32.35" r="9"/>
