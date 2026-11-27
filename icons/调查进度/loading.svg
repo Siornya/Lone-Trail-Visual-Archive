@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="48" height="48" role="img" aria-labelledby="title">
+	<title id="title">调查进度 · 加载中</title>
+	<style>
+		svg { color: #3a3632; }
+		@media (prefers-color-scheme: dark) { svg { color: #f4efdf; } }
+		.layer { opacity: 0; animation: appear 2.5s steps(1, end) infinite; }
+		.layer-3 { animation-name: third; }
+		.layer-4 { animation-name: fourth; }
+		.layer-5 { animation-name: fifth; }
+		@keyframes appear { 0% { opacity: 0; } 20%, 100% { opacity: 1; } }
+		@keyframes third { 0% { opacity: 0; } 40%, 100% { opacity: 1; } }
+		@keyframes fourth { 0% { opacity: 0; } 60%, 100% { opacity: 1; } }
+		@keyframes fifth { 0% { opacity: 0; } 80%, 100% { opacity: 1; } }
+		@media (prefers-reduced-motion: reduce) { .layer { animation: none; opacity: 1; } }
+	</style>
+	<g fill="currentColor">
+		<g id="stage-1">
+			<circle cx="75" cy="11" r="9"/>
+			<circle cx="93.5" cy="11" r="9"/>
+			<circle cx="38" cy="32.35" r="9"/>
+			<circle cx="75" cy="32.35" r="9"/>
+			<circle cx="93.5" cy="32.35" r="9"/>
+			<circle cx="112" cy="32.35" r="9"/>
+			<circle cx="93.5" cy="53.7" r="9"/>
+		</g>
+		<g id="stage-2" class="layer layer-2">
+			<circle cx="56.5" cy="11" r="9"/>
+			<circle cx="56.5" cy="32.35" r="9"/>
+			<circle cx="19.5" cy="53.7" r="9"/>
+			<circle cx="38" cy="53.7" r="9"/>
+			<circle cx="75" cy="53.7" r="9"/>
+			<circle cx="19.5" cy="75.05" r="9"/>
+			<circle cx="93.5" cy="75.05" r="9"/>
+			<circle cx="112" cy="75.05" r="9"/>
+		</g>
+		<g id="stage-3" class="layer layer-3">
+			<circle cx="75" cy="75.05" r="9"/>
+			<circle cx="19.5" cy="96.4" r="9"/>
+			<circle cx="38" cy="96.4" r="9"/>
+			<circle cx="75" cy="96.4" r="9"/>
+			<circle cx="93.5" cy="96.4" r="9"/>
+			<circle cx="38" cy="117.75" r="9"/>
+			<circle cx="112" cy="117.75" r="9"/>
+		</g>
+		<g id="stage-4" class="layer layer-4">
+			<circle cx="130.5" cy="75.05" r="9"/>
+			<circle cx="112" cy="96.4" r="9"/>
+			<circle cx="130.5" cy="96.4" r="9"/>
+			<circle cx="56.5" cy="117.75" r="9"/>
+			<circle cx="75" cy="117.75" r="9"/>
+			<circle cx="56.5" cy="139.1" r="9"/>
+			<circle cx="75" cy="139.1" r="9"/>
+			<circle cx="93.5" cy="139.1" r="9"/>
+		</g>
+		<g id="stage-5" class="layer layer-5">
+			<circle cx="56.5" cy="53.7" r="9"/>
+			<circle cx="112" cy="53.7" r="9"/>
+			<circle cx="130.5" cy="53.7" r="9"/>
+			<circle cx="38" cy="75.05" r="9"/>
+			<circle cx="56.5" cy="75.05" r="9"/>
+			<circle cx="56.5" cy="96.4" r="9"/>
+			<circle cx="93.5" cy="117.75" r="9"/>
+		</g>
+	</g>
+</svg>

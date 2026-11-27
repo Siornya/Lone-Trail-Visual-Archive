@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 340" width="660" height="340" role="img" aria-labelledby="menu-title" aria-describedby="menu-source">
+	<title id="menu-title">孤星活动大厅的六个入口图案</title>
+	<desc id="menu-source">专项调查取样自首发公告，指令目录和专案联络处取样自大厅实机。三个作战入口取样自常驻地图的入口贴图。箱面微小印记按可辨轮廓重绘。</desc>
+	<symbol id="investigate" viewBox="-6 -1 88 91">
+		<g fill="currentColor">
+			<circle cx="28.2" cy="8.8" r="7.15"/>
+			<circle cx="47.7" cy="8.4" r="7.15"/>
+			<circle cx="8.45" cy="27.45" r="7.15"/>
+			<circle cx="28.2" cy="27.25" r="7.15"/>
+			<circle cx="47.75" cy="27.1" r="7.15"/>
+			<circle cx="67.6" cy="27.1" r="7.15"/>
+			<circle cx="8.55" cy="46.1" r="7.15"/>
+			<circle cx="28.15" cy="46.1" r="7.15"/>
+			<circle cx="67.55" cy="46.1" r="7.15"/>
+			<path d="M21.1 88.3V64.4a7.1 7.1 0 0 1 14.2 0v23.9h-5.7V65.2a1.4 1.4 0 0 0-2.8 0v23.1Z"/>
+			<path d="M40.65 88.3V46.1a7.15 7.15 0 0 1 14.3 0v42.2H49.2V54.5a1.4 1.4 0 0 0-2.8 0v33.8Z"/>
+		</g>
+	</symbol>
+	<symbol id="directive" viewBox="0 0 53 52">
+		<g fill="currentColor">
+			<path d="M4.05 1.15H18.49A25.05 25.05 0 0 0 1.85 20.17V3.35A2.2 2.2 0 0 1 4.05 1.15Z
+				M34.41 1.15h14.34q2.2 0 2.2 2.2V19.68A25.05 25.05 0 0 0 34.41 1.15Z
+				M50.95 30.12v17.53q0 2.2-2.2 2.2H28.69A25.05 25.05 0 0 0 50.95 30.12Z
+				M24.21 49.85H4.05q-2.2 0-2.2-2.2V29.63A25.05 25.05 0 0 0 24.21 49.85Z"/>
+			<circle cx="16.45" cy="13.05" r="3.9"/>
+			<rect x="22.7" y="9" width="7.6" height="7.8" rx=".35"/>
+			<rect x="11.6" y="18.05" width="29.7" height="5.55" rx="2.78"/>
+			<rect x="11.6" y="25.35" width="29.7" height="5.8" rx="2.9"/>
+			<circle cx="37.2" cy="36.7" r="3.9"/>
+		</g>
+	</symbol>
+	<symbol id="contact" viewBox="0 0 64 64">
+		<g fill="currentColor">
+			<path d="m4.2 14.2 9-4.3q1-.45 2.15.02l26.6 11.22-9.75 4.68q-.97.48-2.04.02L4.2 14.95q-.8-.35 0-.75Z"/>
+			<path d="m24.55 5.36 6.89-3.42q.89-.39 1.84.02L59.1 12.6q.85.35.06.8l-8.17 4.02q-.93.46-1.98.02L24.55 6.08q-.78-.32 0-.72Z"/>
+			<path d="m3.04 19.1 26.96 11.3v30.36L3.7 49.65q-.73-.32-.73-1.15Z"/>
+			<path fill-rule="evenodd" d="m33.03 30.43 9.62-4.35v8.6l7.17-3.16v-8.68l11.1-5.04V48.4q0 1.13-.97 1.58l-26.92 11.2Z
+				M40.15 48.8v5.3l2.38-1.01v-5.3ZM45.82 46.35v5.25l3.35-1.43v-5.23ZM50.72 44.31v5.14l3.4-1.45v-5.1Z"/>
+			<path opacity=".54" d="M40.15 48.8v5.3l2.38-1.01v-5.3ZM45.82 46.35v5.25l3.35-1.43v-5.23ZM50.72 44.31v5.14l3.4-1.45v-5.1Z"/>
+		</g>
+	</symbol>
+	<symbol id="future" viewBox="5.45 .78 47 47">
+		<g fill="none" stroke="currentColor">
+			<circle cx="28.95" cy="24.28" r="19.58" stroke-width="3.12"/>
+			<circle cx="28.95" cy="24.28" r="11.28" stroke-width="3.05"/>
+		</g>
+		<g fill="currentColor">
+			<path d="M21.08 23.34a7.93 7.93 0 1 1 0 1.88H32v-1.88Z"/>
+		</g>
+	</symbol>
+	<symbol id="past" viewBox="7 1.5 52 47">
+		<g fill="currentColor">
+			<path d="M9.48 29.2A20.31 20.72 0 0 1 43.03 9.44l-2.19 2.28a17.18 17.52 0 0 0-28.34 16.83Zm.34 1.37 3.08-.63a17.18 17.52 0 0 0 3.55 6.89l-2.09 2.21a20.31 20.72 0 0 1-4.54-8.47Z"/>
+			<path d="M33.24 22.42 44.43 11.12a20.31 20.72 0 0 1 3.87 7.32Zm-2.63 2.63 17.95-4.97a20.31 20.72 0 0 1 .53 7.21 9.08 9.08 0 0 0-9.71 15.14 20.31 20.72 0 0 1-23.71-2.39Z"/>
+			<circle cx="53.92" cy="7.93" r="3.03"/>
+			<circle cx="46.58" cy="36.35" r="6.70" fill="none" stroke="currentColor" stroke-width="1.25"/>
+		</g>
+	</symbol>
+	<symbol id="present" viewBox="1 .5 57 47">
+		<g fill="currentColor">
+			<path d="M3.18 19.43A20.215 20.215 0 1 1 2.94 20.64L5.88 21.13A17.235 17.235 0 1 0 6.08 20.10Z"/>
+			<circle cx="40.68" cy="28.93" r="13.73" fill="none" stroke="currentColor" stroke-width="3"/>
+			<path d="M33.52 13.91A13.3 13.3 0 1 0 27.01 38.54A16.8 16.8 0 0 1 33.52 13.91Z"/>
+			<circle cx="34.55" cy="27.3" r="5.38" fill="none" stroke="currentColor" stroke-width="2.9"/>
+		</g>
+	</symbol>
+	<g color="#f3ead5">
+		<rect width="660" height="340" rx="8" fill="#211e1d"/>
+		<use href="#investigate" x="54" y="18" width="112" height="108"/>
+		<use href="#directive" x="276" y="22" width="108" height="100"/>
+		<use href="#contact" x="496" y="18" width="108" height="108"/>
+		<use href="#future" x="54" y="187" width="112" height="108"/>
+		<use href="#past" x="258" y="187" width="144" height="108"/>
+		<use href="#present" x="492" y="187" width="116" height="108"/>
+	</g>
+	<g fill="#e4dbcb" font-family="Helvetica, PingFang SC, sans-serif" font-size="16" text-anchor="middle">
+		<text x="110" y="151">专项调查</text><text x="330" y="151">指令目录</text><text x="550" y="151">专案联络处</text>
+		<text x="110" y="320">未来将至</text><text x="330" y="320">过往未尽</text><text x="550" y="320">紧握当下</text>
+	</g>
+</svg>
