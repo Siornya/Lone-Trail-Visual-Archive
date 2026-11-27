@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 30" width="38" height="30" fill="currentColor" color="white" role="img" aria-label="档案列表 cg">
+	<rect x="1" y="1" width="36" height="28" rx="3.5" fill="none" stroke="currentColor" stroke-width="2"/>
+	<path d="M5 4.9h9.45L7.9 9.55v11.72l6.55 4.34H5z M32.65 4.9h-9.5l6.68 4.65v11.72l-6.68 4.34h9.5z"/>
+	<path d="M17.6 4.95h2.57v9.49l-1.28.8-1.29-.8z M9.1 19.6l8.02-4.78 1.1 2.67-8.12 4.62z M20.87 14.8l8.05 4.77-1.05 2.55-8.14-4.66z"/>
+</svg>

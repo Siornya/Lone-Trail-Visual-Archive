@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" fill="currentColor" color="white" role="img" aria-label="档案列表 story">
+	<rect x="3.4" y="1.55" width="23.2" height="2.05" rx="1"/>
+	<rect x="2.2" y="4.9" width="25.6" height="2.03" rx="1"/>
+	<path fill-rule="evenodd" d="M2.95 8.9h9.43l1.21 2.1q.52.95 1.46.95.92 0 1.44-.95l1.17-2.1h9.42q1.67 0 1.67 1.55V28q0 .98-1.08.98H2.32q-1.07 0-1.07-1V10.55q0-1.65 1.7-1.65Z M9.05 18.2q0-.9 1.13-.9t1.14.9v1.98h7.37V18.2q0-.9 1.14-.9t1.13.9v2.72q0 1.75-1.75 1.75h-8.37q-1.79 0-1.79-1.75Z"/>
+</svg>

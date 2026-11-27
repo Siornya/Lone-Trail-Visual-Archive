@@ -2,6 +2,8 @@
 
 [大厅入口](大厅入口/) 收录六个入口，[调查收藏](调查收藏/) 收录十六张徽章的中央图案。这两组文件都是 128 × 128 的透明 PNG，图形统一为白色，可在深色背景上使用。[图案总览](图案总览.png)
 
+[档案图标 SVG 合集](档案图标/archive-icons.svg) 的上排是[档案入口](档案图标/档案入口/)，下排是[档案列表](档案图标/档案列表/)。每组均附原尺寸 PNG 和同名的独立 SVG，单图为白色透明底。
+
 [大厅入口 SVG](menu-icons.svg) · [去角标版 SVG](menu-icons-clean.svg) · [独立 EX 字标](ex.svg)
 
 [调查进度](调查进度/) 收录五张游戏原始透明 PNG，按 `progress_1.png` 至 `progress_5.png` 排列。[AA2 原始目录](https://github.com/ArknightsAssets/ArknightsAssets2/tree/cn/assets/dyn/arts/ui/rhine/researchprogress)
