@@ -3,14 +3,14 @@
 	<style>
 		svg { color: #3a3632; }
 		@media (prefers-color-scheme: dark) { svg { color: #f4efdf; } }
-		.layer { opacity: 0; animation: appear 2.5s steps(1, end) infinite; }
+		.layer { opacity: 0; animation: appear 1.5s ease-in-out infinite; }
 		.layer-3 { animation-name: third; }
 		.layer-4 { animation-name: fourth; }
 		.layer-5 { animation-name: fifth; }
-		@keyframes appear { 0% { opacity: 0; } 20%, 100% { opacity: 1; } }
-		@keyframes third { 0% { opacity: 0; } 40%, 100% { opacity: 1; } }
-		@keyframes fourth { 0% { opacity: 0; } 60%, 100% { opacity: 1; } }
-		@keyframes fifth { 0% { opacity: 0; } 80%, 100% { opacity: 1; } }
+		@keyframes appear { 0%, 12%, 100% { opacity: 0; } 20%, 92% { opacity: 1; } }
+		@keyframes third { 0%, 32%, 100% { opacity: 0; } 40%, 92% { opacity: 1; } }
+		@keyframes fourth { 0%, 52%, 100% { opacity: 0; } 60%, 92% { opacity: 1; } }
+		@keyframes fifth { 0%, 72%, 100% { opacity: 0; } 80%, 92% { opacity: 1; } }
 		@media (prefers-reduced-motion: reduce) { .layer { animation: none; opacity: 1; } }
 	</style>
 	<g fill="currentColor">
