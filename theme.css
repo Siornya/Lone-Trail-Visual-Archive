@@ -1,0 +1,33 @@
+:root {
+	--color-background: #F5EEDA;
+	--color-accent: #F06733;
+	--color-background-dark: #1D1D1D;
+
+	--color-grid: #EEE7D3;
+	--color-accent-pattern: #DE5E2F;
+	--color-text: #333333;
+
+	--color-stripe-green: #87C2B0;
+	--color-stripe-yellow: #EBA93B;
+	--color-stripe-red: #9A2D28;
+}
+
+@font-face {
+	font-family: "Source Han Serif CN";
+	src: local("Source Han Serif CN Regular"), url("参考资料/社区参考/排版参考/SourceHanSerifCN-Regular-1.otf") format("opentype");
+	font-weight: 400;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Source Han Serif CN";
+	src: local("Source Han Serif CN Bold"), url("参考资料/社区参考/排版参考/SourceHanSerifCN-Bold-2.otf") format("opentype");
+	font-weight: 700;
+	font-display: swap;
+}
+:root {
+	--font-cjk: "Source Han Serif CN", "Songti SC", SimSun, serif;
+	--font-text: Helvetica, var(--font-cjk);
+	--font-ui: Helvetica, Bender, var(--font-cjk);
+	--font-display: Helvetica, "Novecento wide", var(--font-cjk);
+	--font-formal: Helvetica, "Times New Roman", Georgia, var(--font-cjk);
+}
